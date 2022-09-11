@@ -20,6 +20,7 @@ section{
 
 section>h3{ /* This aligns the h3 title to the right*/
     float: right;
+    font-size: 125%;
 }
 
 section>p { /* this gives some top space to the h3*/
@@ -49,6 +50,7 @@ section.sushi>h3 {
   }
   h1 {
     margin-bottom: 15px;
+    font-size: 175%;
   }
   
   p {
